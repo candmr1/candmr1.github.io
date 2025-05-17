@@ -1,0 +1,93 @@
+
+  .container h1 {
+    font-size: 64px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* yatay ortala */
+    height: 100px;
+    
+  }
+ h1 {
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  .harf1 { color: blue;  }
+  .harf2 { color: red; }
+  .harf3 { color: yellow; }
+  .harf4 { color: blue; }
+  .harf5 { color: greenyellow; }
+  .harf6 { color: red; }
+  .harf7 { color: blue; }
+  }
+  
+
+  .box {
+    text-align: center;
+    font-size: 15px;
+    height: 130px;
+}
+.box {
+  text-align: center;         
+  padding: 10px;
+  background-color: #e0e0e0;  
+}
+
+.box input[type="text"] {
+  width: 400px;              
+  padding: 10px;
+  font-size: 12px;
+  margin: 10px 10px;             
+  box-sizing: border-box;
+}
+
+.box button {
+  padding: 10px 10px;
+  font-size: 13px;
+  margin: 0 3px;              
+  cursor: pointer;
+}
+.bg-gri {
+    background-color: rgb(211, 210, 210);
+}
+.kutu-container {
+  display: flex;
+  /*justify-content: center;  Ortalamak için */
+  /*gap: 20px;  Kutular arası boşluk */
+  margin-top: 2px;
+}
+.box2 {
+  height: 180px;
+  width: 720px;
+  padding: 10px;
+  text-align: center;
+  font-size: 22px;
+  background-color: turquoise;
+  margin: 2px ;
+}
+.box3 {
+    height: 200px;
+    width: 410px;
+    background-color: rgb(71, 216, 202);
+    font-size: 20px;
+    text-align: center;
+    margin: 2px ;
+}
+.box4 {
+    background-color: turquoise;
+    height: 200px;
+    width: 720px;
+    text-align: center;
+    margin: 2px ;
+}
+ p {
+    text-align: center;
+ }
+
+
+
+
+
+
+
+
+
